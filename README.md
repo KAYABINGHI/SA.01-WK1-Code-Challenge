@@ -1,5 +1,5 @@
 
-# Kenyan Ingridient Calculator
+# Kenyan utility Calculators
 
 
 This project is a collection of JavaScript functions designed to perform everyday calculations inspired by Kenyan culture and services. It includes three main utilities:
